@@ -1,7 +1,7 @@
 # -PrjtCpuSch
 
-## O simulador de escalonamento de processos é uma ferramenta que modela o funcionamento de algoritmos de escalonamento em sistemas operacionais. 
-Ele inclui quatro principais algoritmos: FCFS, Round Robin, Fila de Prioridade e Job Menor.
+## O simulador de escalonamento de processos é uma ferramenta que modela o funcionamento de
+## algoritmos de escalonamento em sistemas operacionais. 
 
 ### FCFS (First-Come, First-Served): Prioriza a execução com base na ordem de chegada dos processos à fila de prontos.
 
@@ -12,4 +12,4 @@ Ele inclui quatro principais algoritmos: FCFS, Round Robin, Fila de Prioridade e
 ### Job Menor: Executa o processo com a menor duração estimada ou tempo de execução restante.
 
 ## O simuladora representa escalonamento de desempenho de um S.O , isso é essencial para compreender e
-otimizar o escalonamento de processos em ambientes computacionais.
+## otimizar o escalonamento de processos em ambientes computacionais.
