@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="PrjCpuSch" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="default">
+				<Option output="PrjCpuSch" prefix_auto="1" extension_auto="1" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+			</Target>
+		</Build>
+		<Unit filename="escalonador.c">
+			<Option compilerVar="CPP" />
+		</Unit>
+		<Unit filename="escalonador.h" />
+		<Unit filename="listaencadeada.c">
+			<Option compilerVar="CPP" />
+		</Unit>
+		<Unit filename="listaencadeada.h" />
+		<Unit filename="mainApp.c">
+			<Option compilerVar="CPP" />
+		</Unit>
+		<Unit filename="processo.c">
+			<Option compilerVar="CPP" />
+		</Unit>
+		<Unit filename="processo.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
